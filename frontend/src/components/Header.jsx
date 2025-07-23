@@ -1,4 +1,4 @@
-import logoSpotify from '../assets/logo/spotify-logo.png'
+import logoMusikly from '../assets/logo/Musikly-logo.png'
 import React from 'react'
 import { Link } from 'react-router-dom'
 
@@ -6,11 +6,11 @@ const Header = () => {
   return (
     <div className='header'>
       <Link to="/">
-        <img src = {logoSpotify} alt='logo' />
+        <img src = {logoMusikly} alt='logo' />
       </Link>
       
       <Link to="/"className="header__link">
-        <h1>Spotify</h1>
+        <h1>Musikly</h1>
       </Link>
     </div>
   );
