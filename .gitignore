@@ -1,0 +1,46 @@
+# Geral
+node_modules/
+.env
+*.env
+*.log
+*.log.*
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Cache do npm/yarn
+package-lock.json
+yarn.lock
+.pnpm-debug.log
+npm-debug.log
+
+# Vite / frontend
+dist/
+.vite/
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Test coverage
+coverage/
+
+# Arquivos de build
+build/
+out/
+
+# Cache do eslint e outros
+.eslintcache
+
+# Cache do TypeScript
+*.tsbuildinfo
+
+# Linux/macOS file system metadata
+*.swp
+*.bak
+
+# Git
+.git/
