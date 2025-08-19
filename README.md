@@ -21,7 +21,6 @@ Recriar a experiência visual e de navegação do Spotify como forma de estudo e
 - JavaScript
 - CSS
 - MongoDB (banco de dados não relacional)
-- Git & GitHub
 
 ---
 
